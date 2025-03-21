@@ -1,0 +1,209 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #3498db;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Homepage Styles */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #f9f9f9;
+  }
+  
+  li a {
+    display: block;
+    font-size: 18px;
+    color: #2c3e50;
+  }
+  
+  /* Person Details Page Styles */
+  .person-details {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .person-details p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 10px 0;
+  }
+  
+  .person-details p strong {
+    color: #2c3e50;
+  }
+  
+  .back-link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #3498db;
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }
+
+
+
+  /* Search Bar Styles */
+.search-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  #search {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  /* List Item Styles */
+  li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #f9f9f9;
+  }
+  
+  li a {
+    display: block;
+    font-size: 18px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .location, .remarks, .uid {
+    font-size: 14px;
+    color: #777;
+    margin: 5px 0;
+  }
+
+  .highlight {
+    background-color: yellow;
+    font-weight: bold;
+  }
+
+  /* Search Result Count Styles */
+ #search-result-count {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+  }
+
+
+ /* Edit Form Styles */
+#edit-form {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  #edit-form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  #edit-form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #edit-form button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #edit-form button:hover {
+    background-color: #2980b9;
+  }
+  
+  
+  /* Highlighted List Items */
+li.has-amount {
+    background-color: #e8f5e9; /* Light green background */
+    border-left: 5px solid #4caf50; /* Green border on the left */
+  }
+  
+  li.has-amount a {
+    color: #2e7d32; /* Dark green text for the name */
+  }
+  
+  li.has-amount .uid,
+  li.has-amount .location,
+  li.has-amount .remarks {
+    color: #1b5e20; /* Darker green text for details */
+  }
+
+
+    /* Header Styles */
+  
+  .totals {
+    text-align: center;
+  }
+  
+  .totals p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .totals strong {
+    color: #2e7d32; /* Dark green for emphasis */
+  }
