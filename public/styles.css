@@ -119,7 +119,7 @@ body {
     margin-bottom: 10px;
   }
   
-  .location, .remarks, .uid {
+  .location, .remarks, .uid , .Gender{
     font-size: 14px;
     color: #777;
     margin: 5px 0;
@@ -188,7 +188,8 @@ li.has-amount {
   
   li.has-amount .uid,
   li.has-amount .location,
-  li.has-amount .remarks {
+  li.has-amount .remarks,
+  li.has-amount .Gender {
     color: #1b5e20; /* Darker green text for details */
   }
 
