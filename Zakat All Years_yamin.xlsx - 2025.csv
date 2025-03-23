@@ -2,7 +2,7 @@ UID,Name,M/F,Phone,Location,Remarks,Given (2025),Amount (2025),Given (2024),Amou
 1001,Abdul Barek / Isaac Son,Male,01817209137,Our Rangunia,BAD Situation,paid,5000,Paid,1500,1530,YES,3000,47,Rickshaw Driver (Now CNG stolen),4 ,2 girls married (degree passed) _ 1 girl class 7 _ 1 boy HSC from madrasha,CNG stolen and Girl pregnant in Ctg Medical ,paid,4,2 girls married (degree passed) _ 1 girl class 7 _ 1 boy HSC from madrasha,CNG stolen and Girl pregnant,paid,4 ,2 girls married (degree passed) _ 1 girl class 7 _ 1 boy HSC from madrasha,CNG stolen and Girl pregnant ,paid,paid
 1002,Abdul kalek (Kaulo ) / Isaac Son ,Male,01812935992,Our Rangunia,Kaullo / Taxi driver,,5000,Paid,1500,1535,YES,3000,,,,,,paid,paid
 1003,Abdul Malek / Goinna Babu Chele,Male,01866276093,Our Rangunia,Bidesh a thake (maybe solvent),,,Don't Pay,,,NO,Don't pay this year,,,,,
-1004,Abdul Munaf Rangunia ,Male,01860392873,Our Rangunia,BAD Situation (FUTURE DARK),,5000,Paid,1500,1535,YES,3000,50+,Chasha ,5 ( 2 boys + 3 girls) - 1 girl married,Two Son dropped out of school in class 7 and 8 (during COVID) Now works as chasha,Two Son Dropped from School,paid,paid
+1004,Abdul Munaf Rangunia ,Male,01860392873,Our Rangunia,BAD Situation (FUTURE DARK),paid,5000,Paid,1500,1535,YES,3000,50+,Chasha ,5 ( 2 boys + 3 girls) - 1 girl married,Two Son dropped out of school in class 7 and 8 (during COVID) Now works as chasha,Two Son Dropped from School,paid,paid
 1005,Abdus Salam Abdu / Isaac Son,,01888635987,Our Rangunia,Isaac Son (cheler nam asif),,,FALSE,,,NO,
 1006,Abdus Salam / Idris er bhai,Male,01878508938,Our Rangunia ( Tafazzal Uncle er bashar pasher) Brother of Idris,DARK FUTURE,Paid,5000,Paid,1500,1535,YES,3000,40,Chasha ( Sonaichori ) - barir uttor ,3 ,1 girl married and 2 boys (1 boy dropped school class 7 and 1 boy in class 6 (at mojumdarkhil school),,paid
 1007,Abdush Shafur /Rangunia,,01883661482,Uttor Para,Gura mia foa / danu mia bhai,,,Don't Pay,,,NO,
@@ -14,12 +14,12 @@ UID,Name,M/F,Phone,Location,Remarks,Given (2025),Amount (2025),Given (2024),Amou
 1013,Badiul Alam er wife,Female,01858712776,Our Rangunia,Booiddar Bou,,,NOT Paid,,,YES,2000,50,,,,
 1014,Belal er BOU ,Female,01876688717,Our Rangunia,try to help them,paid,5000,Paid,1500,1535,YES,3000,,Belal working as farmer,3,2 girl (1 girl finished HSC) and 1 boy in class 8,lost money after going to dubai
 1015,Bortoni  / fazalar bon,Female,01862028544 (bkash),,,paid,5000,Paid,3000,3060,,,,,,,
-1016,Chuttu Mama er bon ,Female,,,Other sister (tun tuni khala)  dead,,,Paid,1000,1020,,,,,,,
-1017,Chuttu Mama,Male,01626741860 (Ibrahim),Chandgaon,,,,Paid,2500,2550,,,70+,,Son name Ibrahim,,
+1016,Chuttu Mama er bon ,Female,(sent to chuttu mama bkash),Naziro bari,Other sister (tun tuni khala)  dead,paid,3000,Paid,1000,1020,,,,,,,
+1017,Chuttu Mama,Male,01812562831 (bkash)  | 01626741860 (Ibrahim cheler nam),Naziro bari,Chandgaon,paid,4000,4000,Paid,2500,2550,,,70+,,Son name Ibrahim,,
 1018,Danu Miya ,,01820325901,Uttor Para,DAUNNO,,,Don't Pay,,,NO,
 1019,Dowla Aktar Rangunia,Female,01876993164,Our Rangunia, Now Solvent,Don't Pay,,NOT Paid,,,YES,3000
 1020,Driver Hasan ,,,,,,,Paid,2000,2040,,
-1021,Elo (tomtom driver) / Rangunia,Male,01812659710,Uttor Para,sofurar foa,,,NOT Paid,,,NO,,,Tom Tom driver (now works in khetr),2,1 boy autistic (protibondhi age 15) and 1 girl ,Chele Autisitc and Tom Tom er battery nosto
+1021,Elo (tomtom driver) / Rangunia,Male,01812659710,Uttor Para,sofurar foa,paid,5000,NOT Paid,,,NO,,,Tom Tom driver (now works in khetr),2,1 boy autistic (protibondhi age 15) and 1 girl ,Chele Autisitc and Tom Tom er battery nosto
 1022,Ershad chele joshim ,,01830553628,Our Rangunia,,,,FALSE,,,NO,
 1023,fazalar bhagni moshuda ,Female,01815848290,,,paid,1000,Paid,1500,1530,,,,,,,
 1024,Fotik Wife,Female,,Chandanpura,,,,Paid,,,YES,5000
@@ -37,11 +37,11 @@ UID,Name,M/F,Phone,Location,Remarks,Given (2025),Amount (2025),Given (2024),Amou
 1036,Issac mother,Female,01858406491 ,Uttor Para,Halimar Ma,,,FALSE,,,NO,,,,,,
 1037,Jafrul islam Rangunia / AIN Jafor,Male,01825350945,Our Rangunia,Ain Jafor,paid,5000,Paid,1500,1535,YES,3000,55+,,2 ( One Died),Raj Mistry ,Working on Building house,paid
 1038,Jaina Alam,yes,01831006670,Our Rangunia,Tin lagain / Now Sick / Depends on Son,paid,5000,Paid,1500,1540,YES,3000,5000,,,,
-1039,Joshim / Kabir ahmed er fua,Male,01844813227,Our Rangunia,Good Prospect ,,,Paid,1500,1540,YES,2000,,CNG driver,2 ,2 boys ( 1 at Madrasha + 1 HSC at college),,
+1039,Joshim / Kabir ahmed er fua,Male,01844813227,Our Rangunia,Good Prospect ,paid,5000,Paid,1500,1540,YES,2000,,CNG driver,2 ,2 boys ( 1 at Madrasha + 1 HSC at college),CNG er parts a kaj Korte hobe ,
 1040,joshim(riksa driver) (chokh fata joshim),Male,01819893504,Uttor Para,SItuation BAD (help can improve),,5000,Paid,1500,1535,YES,3000,36 ,Previously Rickshaw Driver Now Raj Mistory/daily labour,2,1 madrasha  (class 2)  + 1 atem khana (class 3),Unemployed after Eye Operation (done 1 years ago in chokku hospital foys lake). Now His two Son given to atemkhana because of financial needs,paid
-1041,Kobir Ahmed Ranginia,yes(2K),01842283924,Our Rangunia,Joshim Rickshaw driver er bap,,,Paid,1500,1530,yes,2000
+1041,Kobir Ahmed Ranginia,Male,01842283924,Our Rangunia,Joshim Rickshaw driver er bap,paid,5000,Paid,1500,1530,yes,2000,undefined,undefined,undefined,undefined,undefined
 1042,Kunko/Rangunia,Male,01827335598,Uttor Para,Koshai (Given to kobira),,,Paid,1500,1530,YES,3000,undefined
-1043,Kurshad Alam Rangunia / Chayer Dukan,yes(2K),01821919493,Our Rangunia,,,,Don't Pay,,,YES,3000
+1043,Kurshad Alam Rangunia / Chayer Dukan,Male,01821919493,Our Rangunia,,paid,5000,Don't Pay,,,YES,3000,undefined,Tea seller near sadar Ali school,undefined,undefined,Building home
 1044,Mannan Rangunia / Goinna babu Chele,,,Our Rangunia,Now Dead,,,NOT Paid,,,NO,Don't pay this year,,,,,Munaf bhai
 1045,Md. Yousuf,,01856572735,Our Rangunia,works at modhubon now ,,,FALSE,,,NO,
 1046,Mohammad kamal (Jane Alam Bhai ) ,yes(2K),01861731570,Our Rangunia, Jane Alam Er Bhai (bkash prob money sent to harun er wife no ),,,Paid,1500,1530,YES,3000
@@ -59,7 +59,7 @@ UID,Name,M/F,Phone,Location,Remarks,Given (2025),Amount (2025),Given (2024),Amou
 1058,Nasirul Islam ,,01831896249,Our Rangunia,,,,FALSE,,,NO,
 1059,nayeem / agrapathik,,,,,,,FALSE,,,,1000
 1060,Nurasha er meye Jhorna,female,,Rangunia,Husband left,paid,5000,Paid,1500,1530,,,,kajer bua,1,,
-1061,Nuro/Rangunia,,01829049971,Uttor Para,01836974595(Nuro Big bro has Bkash) - give money,,,FALSE,,,NO,,,,,,
+1061,Nuro/Rangunia,,01829049971,Uttor Para,01856716958 (bkash),,,FALSE,,,NO,,,Krishi kaj kore,2,1 girl and 1 boy ( poralekha Kore),
 1062,palashi son faruk / rangunia,,1818800162,Uttor Para,,Paid,5000,NOT Paid,,,,,,,,,
 1063,Pintu er Wife,Female,01875377453,Our Rangunia,,,,NOT Paid,,,YES,3000
 1064,Rafikul islam/Rangunia,,01870265176,Uttor Para, rofik- sottar era bhai ,,,FALSE,,,NO,
@@ -67,12 +67,12 @@ UID,Name,M/F,Phone,Location,Remarks,Given (2025),Amount (2025),Given (2024),Amou
 1066,Raja Mia ,Male,01810657426,Our Rangunia,,paid,5000,Paid,1500,1540,YES,3000,60+,,3,son in bidesh and some in country,Age
 1067,Rashed (Naju mia son),yes(15K),,,,,,FALSE,,,,
 1068,Rehana / Abdul Barek Sister,Female,01838560269,Our Rangunia,,,,Paid,1500,1520,YES,2000
-1069,Rizia / Padan,Female,bkash er dokan,pataaina bari,,,,Paid,1000,1030,YES,2000,,,,,
+1069,Rizia / Padan,Female,01865661956,pataaina bari,,paid,1000,Paid,1000,1030,YES,2000,,,,,
 1070,Rojinar Ma + Barir Ekjon ( ,,,,,,,Paid,5000,5100,,
 1071,Rokeya Begum / Ershad er Meye,Female,01849648976,Uttor Para, Number pasher bashar . Behave with me badly,,,FALSE,,,NO,
 1072,Rouson Ali / Rangunia (khodiza Son),yes(2K),01862706293,Our Rangunia, CNG driver,,,NOT Paid,,,YES,3000
 1073,rubi / sadek bon rangunia,,,,,,,Paid,1500,1520,,
-1074,Ruhul Amin,Male,01817773144 (not ruhul amin no ) ,Uttor Para,,,,FALSE,,,NO,,70,,,,Munshiyar bhai
+1074,Ruhul Amin,Male,01627859536 (bkash) ,Uttor Para,,paid,5000,FALSE,,,NO,,70,bekar (old person),5,3 son (chash Kore) and 2 girls married,Munshiyar bhai
 1075,Salamot Ali,,01684851620,Chandanpura,,Paid,1500,Paid,1000,1025,YES,1000
 1076,Shah Alam / jaine alam bro,yes(2K),01828717605,Our Rangunia,,,,Paid,1500,1510,YES,3000
 1077,Shahid / Lulu babu Son,Male,01819606241 (bkash),Our Rangunia,lulu babu son,paid,5000,FALSE,,,NO,,,,,,
@@ -90,6 +90,11 @@ UID,Name,M/F,Phone,Location,Remarks,Given (2025),Amount (2025),Given (2024),Amou
 1089,Syedul islam / Rangunia,yes(2K),01864361164,Our Rangunia,No more Zakat,,,Don't Pay,,,YES,3000,,,,,
 1090,Tuhin khulshi ,,01871947533,Khulshi ,,,,FALSE,,,YES,1000
 1091,Tuntuni Khalamma / Ibrahim,,01626741860 ,Others,,,,FALSE,,,YES,15000
-1092,Jamal uttor para,Male,01882211633,Uttor Para,Situation bad,paid,5000,0188221633,Uttar Para,undefined,5000,paid,40+,Farmer (vegetable farmer),5 girls ( None Married),,
+1092,Jamal uttor para,Male,01882211633,Uttor Para,Situation bad,paid,10000,0188221633,Uttar Para,undefined,5000,paid,40+,Farmer (vegetable farmer),5 girls ( None Married),,
 1093,Monnan er Wife,Female,,,,,,undefined,,Rangunia,3000,paid
-1094,Jahangir er Bou,Female,,,,,,undefined,Dana Baper Bari,undefined,2000,Paid
+1094,Jahangir er Bou,Female,,Dana Baper Bari,,paid,2000,undefined,Dana Baper Bari,undefined,2000,Paid,,,,,
+1095,Shuma Akhtar Uttar para,Female,01837864066,,,paid,3000,undefined,,Uttor Para,3000,paid,,Nije Din Mojur | Jamai ow din mojur ,,,
+1096,Alom Uttor Para,Male,,Chasha,4,paid,2000,01813970147,Uttor Para (Beside Amin Chairman house),refered by Jamal ,2000,paid,undefined,undefined,4,3 girl and 1 boy,undefined
+1097,Tarek Uttor Para,Male,01887806193,Din Mojur,refer by Jamal,paid,2000,01887806193,Uttor Para,,2000,paid,undefined,undefined,undefined,undefined,undefined
+1098,Mashudar Jamai ,Male,Given to kobira Ahmed,Rangunia,refered by kobira ahmed,3000,paid,,,,,Lenggaiya
+1099,Jhorna / Isaac er Nati,Female,,,Halimar Ma,,,,,,,
